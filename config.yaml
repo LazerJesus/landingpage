@@ -4,7 +4,6 @@ title: Hugo Fresh Theme
 theme: hugo-fresh
 publishDir: docs
 
-
 params:
   hero:
     tagline: Hugo Fresh theme
